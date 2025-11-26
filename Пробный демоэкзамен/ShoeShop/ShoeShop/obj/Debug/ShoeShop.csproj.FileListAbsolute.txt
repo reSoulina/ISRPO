@@ -1,0 +1,26 @@
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe.config
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\bin\Debug\ShoeShop.pdb
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.AssemblyReference.cache
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.LoginForm.resources
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.ManagerForm.resources
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.Properties.Resources.resources
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.UserForm.resources
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.GenerateResource.cache
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.CoreCompileInputs.cache
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.exe
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pdb
+C:\Users\222909071099-1\source\repos\ShoeShop\ShoeShop\obj\Debug\ShoeShop.exe.config
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe.config
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\bin\Debug\ShoeShop.pdb
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.AssemblyReference.cache
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.exe.config
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.LoginForm.resources
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.ManagerForm.resources
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.Properties.Resources.resources
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.UserForm.resources
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.GenerateResource.cache
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.CoreCompileInputs.cache
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.exe
+H:\222909071099_1\УП\Пробный демоэкзамен\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pdb

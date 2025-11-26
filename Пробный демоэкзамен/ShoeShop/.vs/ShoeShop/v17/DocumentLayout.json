@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|h:\\222909071099_1\\\u0443\u043F\\\u043F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\shoeshop\\shoeshop\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|solutionrelative:shoeshop\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\shoeshop\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|solutionrelative:shoeshop\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\shoeshop\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|solutionrelative:shoeshop\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|h:\\222909071099_1\\\u0443\u043F\\\u043F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\shoeshop\\shoeshop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|solutionrelative:shoeshop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\shoeshop\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|solutionrelative:shoeshop\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|h:\\222909071099_1\\\u0443\u043F\\\u043F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\shoeshop\\shoeshop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|solutionrelative:shoeshop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\shoeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F51EE1-9AAA-4D58-8208-017832E0AB82}|ShoeShop\\ShoeShop.csproj|solutionrelative:shoeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\AdminForm.cs",
+              "RelativeDocumentMoniker": "ShoeShop\\AdminForm.cs",
+              "ToolTip": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ShoeShop\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:32:33.999Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ShoeShop\\LoginForm.cs",
+              "ToolTip": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\LoginForm.cs",
+              "RelativeToolTip": "ShoeShop\\LoginForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvygAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:29:46.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ShoeShop\\LoginForm.cs",
+              "ToolTip": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ShoeShop\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:47:02.695Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerForm.cs",
+              "DocumentMoniker": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "ShoeShop\\ManagerForm.cs",
+              "ToolTip": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\ManagerForm.cs",
+              "RelativeToolTip": "ShoeShop\\ManagerForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:11:25.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "ShoeShop\\ManagerForm.cs",
+              "ToolTip": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ShoeShop\\ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:39:32.623Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\Program.cs",
+              "RelativeDocumentMoniker": "ShoeShop\\Program.cs",
+              "ToolTip": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\Program.cs",
+              "RelativeToolTip": "ShoeShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:08:20.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\UserForm.cs",
+              "RelativeDocumentMoniker": "ShoeShop\\UserForm.cs",
+              "ToolTip": "H:\\222909071099_1\\\u0423\u041F\\\u041F\u0440\u043E\u0431\u043D\u044B\u0439 \u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\ShoeShop\\ShoeShop\\UserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ShoeShop\\UserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:39:40.574Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

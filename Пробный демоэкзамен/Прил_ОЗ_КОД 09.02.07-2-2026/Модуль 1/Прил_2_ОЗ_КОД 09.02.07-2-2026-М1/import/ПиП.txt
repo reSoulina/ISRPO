@@ -1,0 +1,31 @@
+Артикул	Поставщик	Производитель
+А112Т4	Kari	Kari
+F635R4	Обувь для вас	Marco Tozzi
+H782T5	Kari	Kari
+G783F5	Kari	Рос
+J384T6	Обувь для вас	Rieker
+D572U8	Обувь для вас	Рос
+F572H7	Kari	Marco Tozzi
+D329H3	Обувь для вас	Alessio Nesca
+B320R5	Kari	Rieker
+G432E4	Kari	Kari
+S213E3	Обувь для вас	CROSBY
+E482R4	Kari	Kari
+S634B5	Обувь для вас	CROSBY
+K345R4	Обувь для вас	CROSBY
+O754F4	Обувь для вас	Rieker
+G531F4	Kari	Kari
+J542F5	Kari	Kari
+B431R5	Обувь для вас	Rieker
+P764G4	Kari	CROSBY
+C436G5	Kari	Alessio Nesca
+F427R5	Обувь для вас	Rieker
+N457T5	Kari	CROSBY
+D364R4	Kari	Kari
+S326R5	Обувь для вас	CROSBY
+L754R4	Kari	Kari
+M542T5	Обувь для вас	Rieker
+D268G5	Обувь для вас	Rieker
+T324F5	Kari	CROSBY
+K358H6	Kari	Rieker
+H535R5	Обувь для вас	Rieker

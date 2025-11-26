@@ -1,0 +1,10 @@
+ProductID|ChangeDate|ChangedField|OldValue|NewValue|ChangedBy
+1|2024-01-05|MinPartnerPrice|800.00|850.00|3
+2|2024-01-05|MinPartnerPrice|600.00|620.00|3
+3|2024-01-05|MinPartnerPrice|1150.00|1200.00|3
+4|2024-01-10|ProductName|Мозаика|Мозаика синяя|5
+5|2024-01-10|ProductionTime|2|3|6
+6|2024-01-15|CostPrice|550.00|590.00|3
+7|2024-01-15|WorkersRequired|4|5|6
+1|2024-01-08|Description|Плитка белая|Напольная плитка под мрамор|5
+2|2024-01-12|StandardNumber|ГОСТ 6787-2001|ГОСТ 6141-91|6

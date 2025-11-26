@@ -1,0 +1,8 @@
+EmployeeId|RoleName|Login|Password
+1|Менеджер|ivanov_sp|password123
+2|Мастер производства|petrova_av|qwerty456
+3|Аналитик|sidorov_ai|pass789
+4|Кладовщик|kozlova_md|secret321
+5|Администратор|nikolaev_do|admin555
+6|Технолог|fedorova_os|tech888
+7|Контролер качества|gromov_pa|quality777
